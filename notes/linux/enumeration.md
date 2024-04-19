@@ -110,6 +110,6 @@ to get an overview over running processes, get pspy onto the machine and run it.
 to get `pspy` to timeout after e.g. 5 minutes, do:
 
 ```
-timeout 5m pspy64
+timeout 5m ./pspy64
 ```
 
