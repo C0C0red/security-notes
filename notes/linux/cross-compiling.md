@@ -19,6 +19,10 @@ Then, the exploit can be compiled with make/gcc on a machine similar to your tar
 Good stuff to apt install on ubuntu:
 
 ```
+apt update
+```
+
+```
 apt install wget gcc make sudo git g++-multilib libmnl-dev libnftnl-dev -y
 ```
 
